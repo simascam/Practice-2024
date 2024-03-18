@@ -2,6 +2,8 @@ Practice task for Onyx Systems
 
 Task: Online store.
 
+Implemented on React
+
 Store functionality:
 
 1)Navigation menu
